@@ -1,5 +1,5 @@
 {
-  "name": "heiyanquan-handbook",
+  "name": "kaoyanbook",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,8 +18,6 @@
     "gitbook-plugin-github": "^2.0.0",
     "gitbook-plugin-hide-element": "0.0.4",
     "gitbook-plugin-insert-logo": "^0.1.5",
-    "gitbook-plugin-page-toc-button": "^0.1.1",
-    "gitbook-plugin-page-treeview": "^3.0.6",
     "gitbook-plugin-search-pro2": "^1.0.2",
     "pnpm": "^8.10.2"
   }
